@@ -1,0 +1,13 @@
+name: binomialalphacontrol
+title: BinomialAlphaControl
+username: jbpost2@ncsu.edu
+account: jbpost2@ncsu.edu
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 48
+bundleId: 87
+url: https://shiny.stat.ncsu.edu/jbpost2/BinomialAlphaControl/
+when: 1677185308.78112
+lastSyncTime: 1677185308.78113
+asMultiple: FALSE
+asStatic: FALSE
